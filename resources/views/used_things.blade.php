@@ -1,0 +1,1 @@
+@include('table_template', ['title' => 'Переданные в пользование', 'things' => $things])
